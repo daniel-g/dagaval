@@ -18,8 +18,8 @@ Desarrollar sistemas computacionales de calidad que además de ayudar a la empre
 
 Educación
 ---------
-Ingeniería en Sistemas Computacionales. Intituto Tecnológico de Colima (2004 - 2008). Villa de Álvarez, Colima, México.
-Técnico Analista Programador. Bachillerato Técnico No. 1
+* Ingeniería en Sistemas Computacionales. Intituto Tecnológico de Colima (2004 - 2008). Villa de Álvarez, Colima, México.
+* Técnico Analista Programador. Bachillerato Técnico No. 1
 
 #### Otros Cursos
 * Diplomado en Inglés. Intituto Tecnológico de Estudio Superiores de Monterrey (2007 - 2009). Colima, Colima, México.
@@ -31,7 +31,7 @@ Experiencia Profesional
 
 Diseño y desarrollo de aplicaciones principalmente en internet en Ruby on Rails, Code Igniter (PHP Framework). Experiencia en desarrollo de frontend (HTML5, CSS3 y javascript), con frameworks y librerías Javascript como jQuery, ExtJS y jQuery Mobile; y framworks de CSS como blueprint. Desarrollo de sistemas de escritorio en Java, Python y Visual Basic. Manejo de bases de datos SQL (Mysql, PostgreSQL) y NoSQL (MongoDB y Redis).
 
-Crowd Interactive
+Crowd Interactive (Agosto 2009 - Actual)
 -----------------
 ### CapLinked. The Hybrid Group en partnership con Crowd Interactive. Programador
 * Descripción: Sistema para manejo de la relación entre compañías e inversionistas.
@@ -90,7 +90,7 @@ Crowd Interactive
 * Descripción: Aplicación para Facebook donde los clientes que ya visitaron las instalaciondes de la empresa pueden ver sus fotos y compartirlas.
 * Tecnologías Clave: Ruby on Rails, Facebook API, jQuery, MySQL
 
-Instituto Tecnológico de Colima
+Instituto Tecnológico de Colima (Agosto 2008 - Agosto 2009)
 -------------------------------
 ### IV Verano de Jóvenes Investigadores. Intituto Tecnológico de Colima. Programador, Líder Técnco y Arquitecto
 * Descripción: Sitio oficial del IV Verano de Jóvenes Investigadores del Tecnológico de Colima.
@@ -111,18 +111,18 @@ Instituto Tecnológico de Colima
 
 Freelance
 ---------
-### Sistema de gestión de recursos humanos. Grupo SIMA Colima. Programador y Líder de Proyecto
+### Sistema de gestión de recursos humanos. Grupo SIMA Colima. Programador y Líder de Proyecto. Agosto 2008
 * Descripción: Sistema para el control del personal en la empresa.
 * Tareas: Desarrollo, análisis y diseño del sistema.
 * Tecnologías Clave: PHP, CodeIgniter, javascript, jQuery, MySQL
 
-### Chiagromex Site. Chiagromex. Programador y Líder de Proyecto
+### Chiagromex Site. Chiagromex. Programador y Líder de Proyecto. Octubre 2009
 * Descripción: Sitio oficial para el contacto y venta de productos de la empresa Chiagromex.
 * Tareas: Desarrollo e implementación del sitio en el servidor.
 * Tecnologías Clave: PHP, Joomla, javascript, CSS
 * Link: <http://chiamaya.com.mx/>
 
-### Sistema para el aprendizaje de la mecanografía. CECATI No.145. Programador y Líder de Proyecto
+### Sistema para el aprendizaje de la mecanografía. CECATI No.145. Programador y Líder de Proyecto. Febrero 2010
 * Descripción: Sistema de apoyo para las maestras de mecanografía y secretariado que ayuden a la aplicación de ejercicios y exámenes, permitiendo al estudiante aprender mecanografía acostumbrándose al uso de la computadora al mismo tiempo.
 * Tareas: Desarrollo, análisis e implementación del sistema.
 * Tecnologías Clave: Java 6
