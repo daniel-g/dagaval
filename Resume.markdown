@@ -38,23 +38,27 @@ Tecnologías Clave:
 
 * Lenguajes Backend
 
-  Ruby, PHP
+  Ruby, PHP, Java, Python, Ruby on Rails, [Sinatra](http://www.sinatrarb.com/), [Bigcommerce](http://www.bigcommerce.com/), [Interspire Shoppingcart](http://www.interspire.com/shoppingcart/), [CodeIgniter](http://codeigniter.com/), [Joomla](http://www.joomla.org/)
 
 * Lenguajes Frontend
 
-  HTML5, CSS3, Blueprint, HAML, SASS, Compass, jQuery, jQuery Mobile
+  HTML5, CSS3, Blueprint, [HAML](http://haml-lang.com/), [SASS](http://haml-lang.com/), [Compass](http://compass-style.org/), jQuery, [jQuery Mobile](http://jquerymobile.com/)
 
 * Manejadores de Bases de Datos
 
-  MySQL, PostgreSQL, MongoDB, Redis
+  MySQL, PostgreSQL, [MongoDB](http://www.mongodb.org/), [Redis](http://redis.io/)
 
 * Control de Versiones
 
-  Git, SVN básico
+  [Git](http://git-scm.com/), SVN básico
 
 * Pruebas
 
-  Rspec, Cucumber
+  [Rspec](http://rspec.info/), [Cucumber](http://cukes.info/)
+
+* Otros
+
+  [SendGrid](http://sendgrid.com/), [Authorize.net](http://www.authorize.net/)
 
 Crowd Interactive (Agosto 2009 - Actual)
 -----------------
@@ -84,7 +88,7 @@ Crowd Interactive (Agosto 2009 - Actual)
 ### CrowdInt Site. Crowd Interactive. Revisor de código
 * Descripción: Sitio oficial de la compañía Crowd Interactive
 * Tareas: Revisión de código
-* Tecnologías Clave: Github, Ruby on Rails
+* Tecnologías Clave: Git, Ruby on Rails
 * Link: <http://www.crowdint.com.com/>
 
 ### MagmaRails Site. Crowd Interactive. Programador, Líder Técnico y Arquitecto
@@ -133,6 +137,7 @@ Instituto Tecnológico de Colima (Agosto 2008 - Agosto 2009)
 
 ### Investigación en sistemas de realidad aumentada en sistemas distribuidos. Intituto Tecnológico de Colima. Programador
 * Tareas: Investigación sbre sistemas de realidad aumentada, impelementación de un prototipo con cámaras web y captación de información relevante del flujo, comunicación de dos computadoras mediante la implementación de la librería FlowVR, redacción del documento y presentación de resultados en congresos.
+* Tecnologías Clave: C++, (OpenCV)[http://opencv.willowgarage.com/wiki/], (FlowVR)[http://flowvr.sourceforge.net/]
 
 Freelance
 ---------
