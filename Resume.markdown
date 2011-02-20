@@ -78,7 +78,7 @@ Crowd Interactive (Agosto 2009 - Actual)
 ### ShopAkira. Crowd Interactive. Programador
 * Descripción: Tienda de ropa para mujer en línea basada en InterspireShoppingcart, una implementación de BigCommerce.
 * Tareas: Desarrollo de un filtro dinámico de productos en ajax, implementación de la vista rápida de productos en el filtro y rediseño de la vista de un producto con mejoras en las variaciones del producto y el carrito de compra en ajax.
-* Tecnologías Clave: PHP, jQuery, javascript, HTML, CSS, MySQL
+* Tecnologías Clave: PHP, jQuery, javascript, HTML, CSS, MySQL, BigCommerce, Interspire Shoppingcart
 * Link: <http://www.shopakira.com/>
 
 ### CrowdInt Site. Crowd Interactive. Revisor de código
