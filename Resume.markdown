@@ -32,7 +32,29 @@ Experiencia Profesional
 -----------------------
 ### Resumen
 
-Diseño y desarrollo de aplicaciones principalmente en internet en Ruby on Rails, Code Igniter (PHP Framework). Experiencia en desarrollo de frontend (HTML5, CSS3 y javascript), con frameworks y librerías Javascript como jQuery, ExtJS y jQuery Mobile; y framworks de CSS como blueprint. Desarrollo de sistemas de escritorio en Java, Python y Visual Basic. Manejo de bases de datos SQL (Mysql, PostgreSQL) y NoSQL (MongoDB y Redis).
+Diseño y desarrollo de aplicaciones principalmente en internet en Ruby on Rails y Code Igniter (PHP Framework). Experiencia en desarrollo de frontend (HTML5, CSS3 y javascript), haciendo uso de frameworks y librerías Javascript como jQuery, ExtJS y jQuery Mobile; y framworks de CSS como blueprint. Desarrollo de sistemas de escritorio en Java, Python y Visual Basic. Manejo de bases de datos SQL (Mysql, PostgreSQL) y NoSQL (MongoDB y Redis).
+
+Tecnologías Clave:
+
+* Lenguajes Backend
+
+  Ruby, PHP
+
+* Lenguajes Frontend
+
+  HTML5, CSS3, Blueprint, HAML, SASS, Compass, jQuery, jQuery Mobile
+
+* Manejadores de Bases de Datos
+
+  MySQL, PostgreSQL, MongoDB, Redis
+
+* Control de Versiones
+
+  Git, SVN básico
+
+* Pruebas
+
+  Rspec, Cucumber
 
 Crowd Interactive (Agosto 2009 - Actual)
 -----------------
