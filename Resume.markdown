@@ -3,6 +3,9 @@ Currículum Vitae
 
 Datos Personales
 ----------------
+
+![Daniel Gaytán](http://media01.linkedin.com/mpr/mpr/shrink_80_80/p/1/000/08b/2aa/0905d34.jpg "Daniel Gaytán")
+
 Daniel Alejandro Gaytán Valencia
 
 Email: <dgaytan6@gmail.com>
