@@ -4,7 +4,8 @@ Currículum Vitae
 Datos Personales
 ----------------
 Daniel Alejandro Gaytán Valencia
-email: dgaytan6@gmail.com
+
+Email: <dgaytan6@gmail.com>
 
 ### Links
 * LinkedIn: <http://mx.linkedin.com/in/danielgaytan>
@@ -80,6 +81,8 @@ Crowd Interactive
 * Descripción: Aplicación para Facebook donde los clientes que ya visitaron las instalaciondes de la empresa pueden ver sus fotos y compartirlas.
 * Tecnologías Clave: Ruby on Rails, Facebook API, jQuery, MySQL
 
+Instituto Tecnológico de Colima
+-------------------------------
 ### IV Verano de Jóvenes Investigadores. Intituto Tecnológico de Colima. Programador, Líder Técnco y Arquitecto
 * Descripción: Sitio oficial del IV Verano de Jóvenes Investigadores del Tecnológico de Colima.
 * Tareas: Desarrollo del sitio público y el de administración de la información para usuarios registrados, y el registro de usuarios.
@@ -97,6 +100,8 @@ Crowd Interactive
 ### Investigación en sistemas de realidad aumentada en sistemas distribuidos. Intituto Tecnológico de Colima. Programador
 * Tareas: Investigación sbre sistemas de realidad aumentada, impelementación de un prototipo con cámaras web y captación de información relevante del flujo, comunicación de dos computadoras mediante la implementación de la librería FlowVR, redacción del documento y presentación de resultados en congresos.
 
+Freelance
+---------
 ### Sistema de gestión de recursos humanos. Grupo SIMA Colima. Programador y Líder de Proyecto
 * Descripción: Sistema para el control del personal en la empresa.
 * Tareas: Desarrollo, análisis y diseño del sistema.
