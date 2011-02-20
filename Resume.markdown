@@ -37,45 +37,54 @@ Crowd Interactive
 * Descripción: Sistema para manejo de la relación entre compañías e inversionistas.
 * Tareas: Desarrollo de tareas como la implementación del sistema de recomendaciones, el mapeo de industrias y usuarios y reparación de fallas.
 * Tecnologías Clave: Ruby on Rails, javascript, rspec, cucumber
+* Link: <http://caplinked.com>
 
 ### MusicPanacea. The Hybrid Group en partnership con Crowd Interactive. Programador
 * Descripción: Sistema para publicidad de eventos a través de posters interactivos, donde el usuario es capaz de ver y escuchar demos del evento.
 * Tareas: Implementación del reproductor de música, desarrollado en flash para escritorio, en sistemas móviles basado en HTML.
 * Tecnologías Clave: Javascript, jQuery, Ruby on Rails, HTML5, CSS3
+* Link: <http://www.musicpanacea.com/>
 
 ### Clutch. The Hybrid Group en partnership con Crowd Interactive. Programador
 * Descripción: Sistema para el manejo de proyectos mediante la lectura de información en los distintos sistemas de manejo de proyectos como Basecamp, Pivotal Tracker, Github, Unfuddle y Kanbanpad.
 * Tecnologías Clave: Sinatra, ruby, jQuery Mobile, javascript, MongoDB, Redis
+* Link: <http://www.clutchapp.com/>
 
 ### ShopAkira. Crowd Interactive. Programador
 * Descripción: Tienda de ropa para mujer en línea basada en InterspireShoppingcart, una implementación de BigCommerce.
 * Tareas: Desarrollo de un filtro dinámico de productos en ajax, implementación de la vista rápida de productos en el filtro y rediseño de la vista de un producto con mejoras en las variaciones del producto y el carrito de compra en ajax.
 * Tecnologías Clave: PHP, jQuery, javascript, HTML, CSS, MySQL
+* Link: <http://www.shopakira.com/>
 
 ### CrowdInt Site. Crowd Interactive. Revisor de código
 * Descripción: Sitio oficial de la compañía Crowd Interactive
 * Tareas: Revisión de código
 * Tecnologías Clave: Github, Ruby on Rails
+* Link: <http://www.crowdint.com.com/>
 
 ### MagmaRails Site. Crowd Interactive. Programador, Líder Técnico y Arquitecto
 * Descripción: Sitio oficial del congreso MagmaRails.
 * Tareas: Dirigir un equipo de 2 desarrolladores y 1 diseñador, arquitectura de los datos, desarrollo del sistema administrativo y la mayor parte del sitio en general.
 * Tecnologías Clave: Ruby on Rails 3, HTML5, jQuery, CSS3, i18n, MySQL
+* Link: <http://www.magmarails.com/>
 
 ### Nameframe. Crowd Interactive. Programador, Líder Técnico y Arquitecto
 * Descripción: Sitio para la venta y personalización de Nameframes, cuadros tipo foto donde se coloca un nombre con fotos personales como fondo.
 * Tareas: Arquitectura de los datos, dirección de un equipo de 6 desarrolladores como máximo por la fluctuación del proyecto, desarrollo del sistema de pago, de la generación dinámica del contenido del nameframe y revisión del código.
 * Tecnologías Clave: Ruby on Rails, javascript, jQuery, RMagick, Authorize.net, HTML, CSS, MySQL
+* Link: <http://www.nameframe.com/>
 
 ### Play-by-Play. Crowd Interactive. Programador
 * Descripción: Sistema para publicación de eventos de teatro y musicales en New York.
 * Tareas: Implementación del sistema de correos masivos y reparación de errores.
 * Tecnologías Clave: Ruby on Rails, ExtJS, PostgreSQL, SendGrid
+* Link: <http://www.play-by-play.com/>
 
 ### CNBLeads. Crowd Interactive. Programador
 * Descripción: Sistema para manejo de posibles clientes, así como su información para el City National Bank.
 * Tareas: Implementación de un sistema de búsqueda mejorado de posibles clientes almacenados en la base de datos y la distribución de encargados de área por código postal.
 * Tecnologías Clave: Ruby on Rails, ExtJS, MySQL
+* Link: <http://www.cnbleads.com/>
 
 ### iFly. Crowd Interactive. Progamador
 * Descripción: Aplicación para Facebook donde los clientes que ya visitaron las instalaciondes de la empresa pueden ver sus fotos y compartirlas.
@@ -87,7 +96,7 @@ Instituto Tecnológico de Colima
 * Descripción: Sitio oficial del IV Verano de Jóvenes Investigadores del Tecnológico de Colima.
 * Tareas: Desarrollo del sitio público y el de administración de la información para usuarios registrados, y el registro de usuarios.
 * Tecnologías Clave: PHP, CodeIgniter, javacript, MySQL
-        
+
 ### SEGDA. Intituto Tecnológico de Colima. Programador y Líder Técnico
 * Descripción: Sistema para selección de cultivo dependiendo de las características del suelo.
 * Tareas: Investigación de las tecnologías necesarias, implementación del prototipo, redacción del documento y presentación de resultados en congresos.
@@ -111,6 +120,7 @@ Freelance
 * Descripción: Sitio oficial para el contacto y venta de productos de la empresa Chiagromex.
 * Tareas: Desarrollo e implementación del sitio en el servidor.
 * Tecnologías Clave: PHP, Joomla, javascript, CSS
+* Link: <http://chiamaya.com.mx/>
 
 ### Sistema para el aprendizaje de la mecanografía. CECATI No.145. Programador y Líder de Proyecto
 * Descripción: Sistema de apoyo para las maestras de mecanografía y secretariado que ayuden a la aplicación de ejercicios y exámenes, permitiendo al estudiante aprender mecanografía acostumbrándose al uso de la computadora al mismo tiempo.
