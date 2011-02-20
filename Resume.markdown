@@ -1,33 +1,39 @@
-Currículum
+Currículum Vitae
+================
 
+Datos Personales
+----------------
 Daniel Alejandro Gaytán Valencia
 email: dgaytan6@gmail.com
 
-Links:
-    LinkedIn: http://mx.linkedin.com/in/danielgaytan
-    Twitter: http://twitter.com/dgaytan6
+### Links
+* LinkedIn: http://mx.linkedin.com/in/danielgaytan
+* Twitter: http://twitter.com/dgaytan6
 
 
-Objetivo:
-    Desarrollar sistemas computacionales de calidad que además de ayudar a la empresa a alcanzar sus objetivos, mantenga usuarios cautivos por su diseño y funcionalidad final.
+### Objetivo
 
-Educación:
-    Ingeniería en Sistemas Computacionales. Intituto Tecnológico de Colima (2004 - 2008). Villa de Álvarez, Colima, México.
-    Técnico Analista Programador. Bachillerato Técnico No. 1
+Desarrollar sistemas computacionales de calidad que además de ayudar a la empresa a alcanzar sus objetivos, mantenga usuarios cautivos por su diseño y funcionalidad final.
+
+### Educación
+
+Ingeniería en Sistemas Computacionales. Intituto Tecnológico de Colima (2004 - 2008). Villa de Álvarez, Colima, México.
+Técnico Analista Programador. Bachillerato Técnico No. 1
 
 Otros Cursos:
-    Diplomado en Inglés. Intituto Tecnológico de Estudio Superiores de Monterrey (2007 - 2009). Colima, Colima, México.
-    Diplomado en Inglés en unión con el Trinity College London. Intituto Tecnológico de Colima (2008). Villa de álvarez, Colima, México.
+* Diplomado en Inglés. Intituto Tecnológico de Estudio Superiores de Monterrey (2007 - 2009). Colima, Colima, México.
+* Diplomado en Inglés en unión con el Trinity College London. Intituto Tecnológico de Colima (2008). Villa de álvarez, Colima, México.
 
-Experiencia Profesional:
+Experiencia Profesional
+-----------------------
+### Resumen
 
-    Resumen:
-        Diseño y desarrollo de aplicaciones principalmente en internet en Ruby on Rails, Code Igniter (PHP Framework). Experiencia en desarrollo de frontend (HTML5, CSS3 y javascript), con frameworks y librerías Javascript como jQuery, ExtJS y jQuery Mobile; y framworks de CSS como blueprint. Desarrollo de sistemas de escritorio en Java, Python y Visual Basic. Manejo de bases de datos SQL (Mysql, PostgreSQL) y NoSQL (MongoDB y Redis).
+Diseño y desarrollo de aplicaciones principalmente en internet en Ruby on Rails, Code Igniter (PHP Framework). Experiencia en desarrollo de frontend (HTML5, CSS3 y javascript), con frameworks y librerías Javascript como jQuery, ExtJS y jQuery Mobile; y framworks de CSS como blueprint. Desarrollo de sistemas de escritorio en Java, Python y Visual Basic. Manejo de bases de datos SQL (Mysql, PostgreSQL) y NoSQL (MongoDB y Redis).
 
-    CapLinked. The Hybrid Group en partnership con Crowd Interactive. Programador
-        Descripción: Sistema para manejo de la relación entre compañías e inversionistas.
-        Tareas: Desarrollo de tareas como la implementación del sistema de recomendaciones, el mapeo de industrias y usuarios y reparación de fallas.
-        Tecnologías Clave: Ruby on Rails, javascript, rspec, cucumber
+### CapLinked. The Hybrid Group en partnership con Crowd Interactive. Programador
+* Descripción: Sistema para manejo de la relación entre compañías e inversionistas.
+* Tareas: Desarrollo de tareas como la implementación del sistema de recomendaciones, el mapeo de industrias y usuarios y reparación de fallas.
+* Tecnologías Clave: Ruby on Rails, javascript, rspec, cucumber
     MusicPanacea. The Hybrid Group en partnership con Crowd Interactive. Programador
         Descripción: Sistema para publicidad de eventos a través de posters interactivos, donde el usuario es capaz de ver y escuchar demos del evento.
         Tareas: Implementación del reproductor de música, desarrollado en flash para escritorio, en sistemas móviles basado en HTML.
