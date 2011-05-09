@@ -60,7 +60,7 @@ Tecnologías Clave:
 
   [SendGrid](http://sendgrid.com/), [Authorize.net](http://www.authorize.net/)
 
-Crowd Interactive (Agosto 2009 - Actual)
+Crowd Interactive (Agosto 2009 - Marzo 2011)
 -----------------
 ### CapLinked. The Hybrid Group en partnership con Crowd Interactive. Programador
 * Descripción: Sistema para manejo de la relación entre compañías e inversionistas.
@@ -165,4 +165,4 @@ Premios
 
 Otros
 -----
-* Participación en la Olimpiada Mexicana de Matemáticas
+* Participación en la Olimpiada Mexicana de Matemáticas (2000 - 2008)
