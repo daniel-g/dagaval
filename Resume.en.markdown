@@ -8,31 +8,31 @@ Personal Information
 
 Daniel Alejandro Gaytán Valencia
 
-Email: <dgaytan6@gmail.com>
+Email: dgaytan6@gmail.com
 
 ### Links
 * LinkedIn: <http://mx.linkedin.com/in/danielgaytan>
 * Twitter: <http://twitter.com/dgaytan6>
 
 
-Target
-------
+Goal
+----
 Develop high quality computational systems that help companies to achieve their objectives, keeping users joined because of their design and end functionality.
 
 Education
 ---------
 * Computational Systems Engineering. Intituto Tecnológico de Colima (2004 - 2008). Villa de Álvarez, Colima, México.
-* Analyst Programmer Technician. Bachillerato Técnico No. 1
+* Analyst Programmer Technician. Bachillerato Técnico No. 1 (2001 - 2004). Colima City, Colima, México.
 
 #### Other Courses
-* English Certificate. Intituto Tecnológico de Estudio Superiores de Monterrey (2007 - 2009). Colima, Colima, México.
-* english Certificate in collaboration with the Trinity College London. Intituto Tecnológico de Colima (2008). Villa de Álvarez, Colima, México.
+* English Certificate. Instituto Tecnológico de Estudio Superiores de Monterrey (2007 - 2009). Colima City, Colima, México.
+* English Certificate, Trinity College, London. Instituto Tecnológico de Colima (2008). Villa de Álvarez, Colima, México.
 
 Professional Experience
 -----------------------
 ### Summary
 
-Design and development of desktop and web applications based on Ruby on Rails and Code Igniter frameworks. Experience in frontend development (HTML5, CSS3 and javascript), working with Javascript frameworks and libraries such as jQuery, ExtJS and jQuery Mobile; and CSS frameworks like blueprint. Desktop systems development in Java, Python and Visual Basic. Medium knowledge of SQL (MySQL, PostgreSQL) and basic knoledge on No-SQL (MongoDB and Redis)
+Design and development of desktop and web applications based on Ruby on Rails and Code Igniter frameworks. Experience in frontend development (HTML5, CSS3 and javascript), working with Javascript frameworks and libraries such as jQuery, ExtJS and jQuery Mobile; and CSS frameworks like blueprint. Desktop systems development in Java, Python and Visual Basic. Mid level experience with SQL (MySQL, PostgreSQL) and basics on No-SQL (MongoDB and Redis)
 
 Key Technologies:
 
@@ -50,7 +50,7 @@ Key Technologies:
 
 * Version Control Systems
 
-  [Git](http://git-scm.com/), basic SVN
+  [Git](http://git-scm.com/), SVN
 
 * Test Frameworks
 
@@ -63,8 +63,8 @@ Key Technologies:
 Crowd Interactive (August 2009 - March 2011)
 -----------------
 ### CapLinked. The Hybrid Group in partnership with Crowd Interactive. Developer
-* Description: System for managing the relation between companies and investors.
-* Tasks: Development of tasks such as the recommendations system, industries - users mapping and bug fixing.
+* Description: Platform for private companies, investors, and their advisors to network, manage a capital raise or asset sale, and exchange updates.
+* Tasks: Recommendations system, industries - users mapping and bug fixing among others.
 * Key Technologies: Ruby on Rails, javascript, rspec, cucumber
 * Link: <http://caplinked.com>
 
@@ -76,30 +76,31 @@ Crowd Interactive (August 2009 - March 2011)
 
 ### Clutch. The Hybrid Group in partnership with Crowd Interactive. Developer
 * Description: System for the management of projects by real time checking of many project management systems like Basecamp, Pivotal Tracker, Github, Unfuddle and Kanbanpad.
+* Tasks: Programming on the mobile side of the application.
 * Key Technologies: Sinatra, Ruby, jQuery Mobile, javascript, MongoDB, Redis
 * Link: <http://www.clutchapp.com/>
 
 ### ShopAkira. Crowd Interactive. Developer
 * Description: Online store for women clothing based on InterspireShoppingcart, an implementation of BigCommerce.
-* Tasks: Development of a dynamic products filter totally in ajax, implementation of the quicl view of products in the index and redesign of a single view product with improvements in the product variations and the buying cart.
+* Tasks: Development of a featured dynamic products filter, implementation of the quick view of products in the index and redesign of a single view product with improvements in the product variations and the buying cart.
 * Key Technologies: PHP, jQuery, javascript, HTML, CSS, MySQL, BigCommerce, Interspire Shoppingcart
 * Link: <http://www.shopakira.com/>
 
 ### CrowdInt Site. Crowd Interactive. Code reviewer
-* Description: Sitio oficial de la compañía Crowd Interactive
-* Tasks: Revisión de código
+* Description: Official website of the company.
+* Tasks: Code review.
 * Key Technologies: Git, Ruby on Rails
 * Link: <http://www.crowdint.com.com/>
 
 ### MagmaRails Site. Crowd Interactive. Developer, Technical Leader and Architect
 * Description: Official website of the Magmarails congress.
-* Tasks: Lead a 2 developers and 1 designer team, architect the data and programming of the admin system and some other pages on the site.
+* Tasks: Lead 2 developers and 1 designer team, architect the data and programming of the admin system and some other pages on the site.
 * Key Technologies: Ruby on Rails 3, HTML5, jQuery, CSS3, i18n, MySQL
 * Link: <http://www.magmarails.com/>
 
 ### Nameframe. Crowd Interactive. Developer, Technical Leader and Architect
 * Description: Online store for selling and customization of nameframes.
-* Tasks: Architechture of the data, lead a 6 developers team at the most because of the fluently of the project, development of the payments system and code review.
+* Tasks: Data architecture, lead a 6 developers team, development of the payments system and code review.
 * Key Technologies: Ruby on Rails, javascript, jQuery, RMagick, Authorize.net, HTML, CSS, MySQL
 * Link: <http://www.nameframe.com/>
 
@@ -111,7 +112,7 @@ Crowd Interactive (August 2009 - March 2011)
 
 ### CNBLeads. Crowd Interactive. Developer
 * Description: Leads management system for the City National Bank.
-* Tasks: Implementation of a search system improved for the leads and the area responsibles system.
+* Tasks: Implementation of an improved searching system for the leads and the area responsibles system.
 * Key Technologies: Ruby on Rails, ExtJS, MySQL
 * Link: <http://www.cnbleads.com/>
 
@@ -121,13 +122,13 @@ Crowd Interactive (August 2009 - March 2011)
 
 Instituto Tecnológico de Colima (Agosto 2008 - Agosto 2009)
 -------------------------------
-### IV Summer Research. Intituto Tecnológico de Colima. Developer, Technical Leader and Architect
-* Description: Official site for the reseach summer.
+### 4th Summer Research. Intituto Tecnológico de Colima. Developer, Technical Leader and Architect
+* Description: Official site for the research summer.
 * Tasks: Development of the frontend and the backend (admin and users registration systems).
 * Key Technologies: PHP, CodeIgniter, javacript, MySQL
 
 ### SEGDA. Intituto Tecnológico de Colima. Developer and Technical Leader
-* Description: System for the crops selection depending on the soil features.
+* Description: System for selecting the best crop depending on some soil features.
 * Tasks: Research of the necessary technologies, implementation of the prototype, drafting and presenting of the results to congresses.
 * Key Technologies: Python, QGIS, PyQt, Qt4, PostgreSQL, PostGIS
 
@@ -145,13 +146,13 @@ Freelance
 * Tasks: Development, analysis and design of the system.
 * Key Technologies: PHP, CodeIgniter, javascript, jQuery, MySQL
 
-### Chiagromex Site. Chiagromex. Programador y Líder de Proyecto. Octubre 2009
+### Chiagromex Site. Chiagromex. Developer and Project Leader. Octubre 2009
 * Description: Official site for the online store of the Chiagromex company.
 * Tasks: Development and implementation of the site.
 * Key Technologies: PHP, Joomla, javascript, CSS
 * Link: <http://chiamaya.com.mx/>
 
-### Typing learning system. CECATI No.145. Programador y Líder de Proyecto. Febrero 2010
+### Typing learning system. CECATI No.145. Developer and Project Leader. Febrero 2010
 * Description: Support system for the typing teachers to apply and grade students by excercises and tests.
 * Tasks: Development, analysis and implementation of the system.
 * Key Technologies: Java 6
