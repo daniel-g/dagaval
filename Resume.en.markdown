@@ -17,16 +17,16 @@ Email: dgaytan6@gmail.com
 
 Goal
 ----
-Develop high quality computational systems that help companies to achieve their objectives, keeping users joined because of their design and end functionality.
+Develop high quality computational systems that help companies achieve their objectives, keeping users engaged with their design and end functionality.
 
 Education
 ---------
-* Computational Systems Engineering. Intituto Tecnológico de Colima (2004 - 2008). Villa de Álvarez, Colima, México.
-* Analyst Programmer Technician. Bachillerato Técnico No. 1 (2001 - 2004). Colima City, Colima, México.
+* Computational Systems Engineering. Technological Institute of Colima (2004 - 2008). Villa de Álvarez, Colima, México.
+* Analyst Programmer Technician. Technical Highschool No. 1 (2001 - 2004). Colima City, Colima, México.
 
 #### Other Courses
-* English Certificate. Instituto Tecnológico de Estudio Superiores de Monterrey (2007 - 2009). Colima City, Colima, México.
-* English Certificate, Trinity College, London. Instituto Tecnológico de Colima (2008). Villa de Álvarez, Colima, México.
+* English Certificate. Technological Institute of Advanced Studies of Monterrey (2007 - 2009). Colima City, Colima, México.
+* English Certificate, Trinity College, London. Technological Institute of Colima (2008). Villa de Álvarez, Colima, México.
 
 Professional Experience
 -----------------------
@@ -118,41 +118,42 @@ Crowd Interactive (August 2009 - March 2011)
 
 ### iFly. Crowd Interactive. Developer
 * Description: Facebook application where clients that have already visited iFly could check and share their photos.
+* Tasks: Frontend development.
 * Key Technologies: Ruby on Rails, Facebook API, jQuery, MySQL
 
-Instituto Tecnológico de Colima (Agosto 2008 - Agosto 2009)
+Technological Institute of Colima (August 2008 - August 2009)
 -------------------------------
-### 4th Summer Research. Intituto Tecnológico de Colima. Developer, Technical Leader and Architect
+### 4th Summer Research. Technological Institute of Colima. Developer, Technical Leader and Architect
 * Description: Official site for the research summer.
 * Tasks: Development of the frontend and the backend (admin and users registration systems).
 * Key Technologies: PHP, CodeIgniter, javacript, MySQL
 
-### SEGDA. Intituto Tecnológico de Colima. Developer and Technical Leader
+### SEGDA. Technological Institute of Colima. Developer and Technical Leader
 * Description: System for selecting the best crop depending on some soil features.
 * Tasks: Research of the necessary technologies, implementation of the prototype, drafting and presenting of the results to congresses.
 * Key Technologies: Python, QGIS, PyQt, Qt4, PostgreSQL, PostGIS
 
-### Geographic system for the semaphores in the state of Colima. Intituto Tecnológico de Colima. Developer
+### Geographic system for the semaphores in the state of Colima. Technological Institute of Colima. Developer
 * Tasks:  Research of the necessary technologies, implementation of the prototype, drafting and presenting of the results to congresses.
 * Tecnologías Clave: Python, QGIS, PyQt, Qt4, PostgreSQL, PostGIS
 
-### Research of augmented reality in distributed systems. Intituto Tecnológico de Colima. Developer
+### Research of augmented reality in distributed systems. Technological Institute of Colima. Developer
 * Tasks: Research of distributed augmented reality systems, implementation of a prototype with webcams and catch relevant information from the flow, communicate 2 computers by the FlowVR library, drafting and presenting of the results to congresses.
 * Key Technologies: C++, (OpenCV)[http://opencv.willowgarage.com/wiki/], (FlowVR)[http://flowvr.sourceforge.net/]
 
 Freelance
 ---------
-### Human resources management system. SIMA Group, Colima. Developer and Project Leader. August 2008
+### Human resources management system. SIMA Group, Colima. Developer and Project Leader. August 2008 - October 2008
 * Tasks: Development, analysis and design of the system.
 * Key Technologies: PHP, CodeIgniter, javascript, jQuery, MySQL
 
-### Chiagromex Site. Chiagromex. Developer and Project Leader. Octubre 2009
+### Chiagromex Site. Chiagromex. Developer and Project Leader. October 2009 - December 2009
 * Description: Official site for the online store of the Chiagromex company.
 * Tasks: Development and implementation of the site.
 * Key Technologies: PHP, Joomla, javascript, CSS
 * Link: <http://chiamaya.com.mx/>
 
-### Typing learning system. CECATI No.145. Developer and Project Leader. Febrero 2010
+### Typing learning system. CECATI No.145. Developer and Project Leader. February 2010 - May 2010
 * Description: Support system for the typing teachers to apply and grade students by excercises and tests.
 * Tasks: Development, analysis and implementation of the system.
 * Key Technologies: Java 6
@@ -161,8 +162,8 @@ Awards
 ------
 * State Youth Award, Technologies branch. Colima (2008)
 * Best grade of the 2008 generation. Intituto Tecnológico de Colima (2008)
-* 3rd place in the Mexican Informatic Olympiad (2003)
+* 3rd place in the Mexican Informatics Olympiad (2003)
 
 Others
 ------
-*  Participation in the Mexican Mathematics Olympiad (2000 - 2008)
+*  Participation in the Mexican Mathematics Olympiad (2000 - 2008), taught 2003 - 2008
